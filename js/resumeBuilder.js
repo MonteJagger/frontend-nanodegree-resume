@@ -64,8 +64,18 @@ var project =
 	"portfolio": [{
 		"title": "Portfolio",
 		"date": "1/2017",
-		"description": "A responsive, optimize portfolio that gives a preview of some of the work that I have done as a graphic designer.",
+		"description": "A personal website to display my work in graphic design and web development.\nBuilt my own framework using HTML and CSS, giving me a lot of freedom to play with and helped me practice organize classes and IDs.\nFully responsive site that is compatible with mobile and tablet devices.\nImplemented JavaScript in order to be more interactive with users.\nImplementation of the task runner, Grunt to optimize images with a plug-in called ImageMagic giving a much faster web loading time.",
 		"picture": "images/MyWebsite.png"
+	}, {
+		"title": "Blackjack Game",
+		"date": "11/2016",
+		"description": "Collaborating with friends to create blackjack game that could be played using multiple computers.\nCreate proper requirements and documents with the information given such as UML and sequence diagrams.\nSoftware Development Life Cycle used was the Waterfall method.\nImplemented OpenSlice DDS and created an interface where all the programs could communicate with each other.\nCreate algorithm for the dealer and player as well info for the master user.",
+		"picture": "images/SequenceDiagram.png"
+	}, {
+		"title": "MavBuy Enterprise",
+		"date": "07/2016",
+		"description": "Create a software that autonomously updates inventory in multiple stores when items are purchased. Create UML Diagram representing object-oriented programming. Create user interface for intuitive usability.",
+		"picture": "images/MavBuy.png"
 	}]
 }
 
